@@ -1,5 +1,5 @@
 programa {
-	funcao inicio() {
+	funcao inicio()  {
 	inteiro x,y	
 	escreva("\ndigite dois numeros\n")
 	leia(x)
